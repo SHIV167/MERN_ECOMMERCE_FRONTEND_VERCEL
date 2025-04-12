@@ -1,7 +1,6 @@
 {
   "name": "react-ecommerce",
   "version": "0.1.0",
-  "proxy": "https://mern-ecommerce-backend-vercel.vercel.app",
   "private": true,
   "dependencies": {
     "@headlessui/react": "^1.7.14",
